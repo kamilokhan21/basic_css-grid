@@ -1,0 +1,10 @@
+*{
+    font-family: 'Roboto', sans-serif;
+	
+}
+
+main{
+    max-width: 1200px; /*para el ancho amximo*/
+    margin: 0 auto; /*eliminar margin arriba y abajo y margin 
+    proporcional a los lados*/
+}
